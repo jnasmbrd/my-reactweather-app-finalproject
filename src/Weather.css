@@ -1,0 +1,74 @@
+
+.Container {
+    text-align: left;
+ margin: 10px auto;
+  border: 1px solid #000000;
+  padding-top: 20px;
+  padding-left: 10px;
+  max-width: 450px;
+  border-radius: 10px;
+}
+
+.Weather-Description {
+  list-style: none;
+  color: #242424;
+  font-size: 22px;
+  margin: 0 0 10px;
+  padding: 0;
+  line-height: 1;
+}
+
+.City {
+  padding-top: 15px;
+  font-size: 25px;
+}
+.Date-Time {
+  font-size: 18px;
+}
+
+.Description {
+  font-size: 16px;
+  text-transform: capitalize;
+  padding-bottom: 10px;
+}
+.Icon {
+  position: relative;
+  top: 50px;
+}
+
+.Temperature {
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.Units {
+  font-size: 15px;
+  position: relative;
+  top: -34px;
+}
+
+.Overview {
+  list-style: none;
+  color: #636363;
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  line-height: 1;   
+  margin: 0;
+  padding: 0 20px 10px 5px;
+}
+
+.Forecast {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.Forecast-Daily {
+  display: inline;
+  
+}
+.Forecast-Daily-Icon {
+  display: inline;
+
+}
